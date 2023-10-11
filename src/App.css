@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  background-color: lightblue;
+}
+
+button {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  padding: 5px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #cc0000;
+}
+
+.task-list {
+  margin-top: 30px;
+}
+
+.heading{
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+.hr-line {
+  border: none;
+  border-top: 2px solid #caffff;
+  margin-top: 10px;
+}
